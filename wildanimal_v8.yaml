@@ -1,0 +1,9 @@
+path: detection_detection/
+train: 'train/images'
+val: 'valid/images'
+
+nc: 2
+# class names
+names: 
+  0: 'chimpanzee'
+  1: 'elephant'

@@ -1,0 +1,1 @@
+Put here your annotated training, testing and validation data in yolo format in separate folder (train, test, val)
